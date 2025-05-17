@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hii there! 👋
 
-<!--
-**SamarthKolge-Analyst/SamarthKolge-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Samarth Kolge** - a passionate Data Analyst exploring the world of data.📊✨ 
 
-Here are some ideas to get you started:
+I’ve worked on a variety of interesting projects, so feel free to dive in!  
+If you have any questions, ideas or suggestions, don’t hesitate to reach out. 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks a lot for checking out my profile! 😊  
+
+---
+
+### 📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/samarth-kolge-134929285/) | [Email](mailto:kolgesamarth@gmail.com) | [Scaler Academy](https://www.scaler.com/academy/profile/295c762bef94/) | [HackerRank](https://www.hackerrank.com/profile/kolgesamarth) | [LeetCode](https://leetcode.com/u/sam_1208/)
