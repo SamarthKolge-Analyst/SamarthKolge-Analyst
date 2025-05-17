@@ -10,4 +10,4 @@ Thanks a lot for checking out my profile! 😊
 ---
 
 ### 📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/samarth-kolge-134929285/) | [Email](mailto:kolgesamarth@gmail.com) | [Scaler Academy](https://www.scaler.com/academy/profile/295c762bef94/) | [HackerRank](https://www.hackerrank.com/profile/kolgesamarth) | [LeetCode](https://leetcode.com/u/Samarth_Kolge/)
+[LinkedIn](https://www.linkedin.com/in/samarth-kolge-134929285/) | [Email](mailto:kolgesamarth@gmail.com) | [Scaler Academy](https://www.scaler.com/academy/profile/295c762bef94/) | [HackerRank](https://www.hackerrank.com/profile/kolgesamarth) | [LeetCode](https://leetcode.com/u/Samarth_Kolge)
